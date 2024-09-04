@@ -8,6 +8,10 @@ gcfghgvh
 cgghg
 chvghjh
 chvghgvj
+
+Learning how conflict works in Github.
+If my code works good then i will proceed to remove head and revision and apply push
+
 This commit introduces a new search functionality for the application, which allows users to search for items more efficiently using advanced filters and dynamic suggestions. The main objectives for this feature are to improve user experience, reduce search times, and increase the relevance of the search results. Additionally, the UI components for the search bar and filter section have been updated to enhance accessibility and maintain a consistent design with the rest of the application.
 This commit introduces a new search functionality for the application, which allows users to search for items more efficiently using advanced filters and dynamic suggestions. The main objectives for this feature are to improve user experience, reduce search times, and increase the relevance of the search results. Additionally, the UI components for the search bar and filter section have been updated to enhance accessibility and maintain a consistent design with the rest of the application.
 This commit introduces a new search functionality for the application, which allows users to search for items more efficiently using advanced filters and dynamic suggestions. The main objectives for this feature are to improve user experience, reduce search times, and increase the relevance of the search results. Additionally, the UI components for the search bar and filter section have been updated to enhance accessibility and maintain a consistent design with the rest of the application.
@@ -18,6 +22,7 @@ This commit introduces a new search functionality for the application, which all
 This commit introduces a new search functionality for the application, which allows users to search for items more efficiently using advanced filters and dynamic suggestions. The main objectives for this feature are to improve user experience, reduce search times, and increase the relevance of the search results. Additionally, the UI components for the search bar and filter section have been updated to enhance accessibility and maintain a consistent design with the rest of the application.
 This commit introduces a new search functionality for the application, which allows users to search for items more efficiently using advanced filters and dynamic suggestions. The main objectives for this feature are to improve user experience, reduce search times, and increase the relevance of the search results. Additionally, the UI components for the search bar and filter section have been updated to enhance accessibility and maintain a consistent design with the rest of the application.
 This commit introduces a new search functionality for the application, which allows users to search for items more efficiently using advanced filters and dynamic suggestions. The main objectives for this feature are to improve user experience, reduce search times, and increase the relevance of the search results. Additionally, the UI components for the search bar and filter section have been updated to enhance accessibility and maintain a consistent design with the rest of the application.
+<<<<<<< HEAD
 This commit introduces a new search functionality for the application, which allows users to search for items more efficiently using advanced filters and dynamic suggestions. The main objectives for this feature are to improve user experience, reduce search times, and increase the relevance of the search results. Additionally, the UI components for the search bar and filter section have been updated to enhance accessibility and maintain a consistent design with the rest of the application.
 This commit introduces a new search functionality for the application, which allows users to search for items more efficiently using advanced filters and dynamic suggestions. The main objectives for this feature are to improve user experience, reduce search times, and increase the relevance of the search results. Additionally, the UI components for the search bar and filter section have been updated to enhance accessibility and maintain a consistent design with the rest of the application.
 This commit introduces a new search functionality for the application, which allows users to search for items more efficiently using advanced filters and dynamic suggestions. The main objectives for this feature are to improve user experience, reduce search times, and increase the relevance of the search results. Additionally, the UI components for the search bar and filter section have been updated to enhance accessibility and maintain a consistent design with the rest of the application.
@@ -29,3 +34,7 @@ This commit introduces a new search functionality for the application, which all
 
 
 this is a sam[ple text
+=======
+
+ewfdsf
+>>>>>>> b46387077853c7b6cc9d42f5594a9dbf0670ca70

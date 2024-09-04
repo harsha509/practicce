@@ -9,10 +9,10 @@ This commit introduces a new search functionality for the application, which all
 
 agile/scrum methodology
 data analytics
-<<<<<<< HEAD
+
 ok
 GitHub
-=======
+
 This commit introduces a new search functionality for the application, which allows users to search for items more efficiently using advanced filters and dynamic suggestions. The main objectives for this feature are to improve user experience, reduce search times, and increase the relevance of the search results. Additionally, the UI components for the search bar and filter section have been updated to enhance accessibility and maintain a consistent design with the rest of the application.
 >>>>>>> ce0ff8cc5fb629f2b20c9895a1210750b4313fa2
 
