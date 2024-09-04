@@ -8,3 +8,6 @@ gcfghgvh
 cgghg
 chvghjh
 chvghgvj
+
+Learning how conflict works in Github.
+If my code works good then i will proceed to remove head and revision and apply push
