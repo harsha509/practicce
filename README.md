@@ -26,3 +26,5 @@ This new search functionality is a significant improvement over the previous ver
 - Adding a search history feature that allows users to quickly access their previous searches or favorite items.
 
 This commit is the first step towards building a more robust search system that will scale with the growing needs of our application and provide users with a more intuitive and efficient way to navigate our content.
+
+dgdrgdfg
