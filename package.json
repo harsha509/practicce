@@ -1,0 +1,17 @@
+{
+  "name": "js_p",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "code": "node test1.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "selenium-webdriver": "^4.24.1"
+  },
+  "dependencies": {
+    "react": "^18.3.1"
+  }
+}
