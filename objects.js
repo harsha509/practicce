@@ -25,11 +25,9 @@ let name = "wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwa";
 //  h a r s h a
 //  0 1 2 3 4 5
 
+// charAt(index)
 
 console.log(name.charAt(name.length));
-
-
-
 
 
 let age = 10;
