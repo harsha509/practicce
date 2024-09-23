@@ -2,6 +2,7 @@
   "name": "js_p",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "code": "node test1.js"
   },

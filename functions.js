@@ -43,7 +43,6 @@ signUp("xyz@xyz.com");
 //callbacks in js
 
 
-
 function print(res) {
     console.log("i am done with work, result is "+ res);
 }
@@ -52,7 +51,6 @@ function doMath(a, b, callback) {
     let c = a + b;
     callback(c);
 }
-
 
 
 doMath(10, 20, print);
