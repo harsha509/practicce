@@ -50,9 +50,11 @@ console.log(arr5.sort());
 //forEach
 
 let res2 = 1;
-arr5.forEach(function(val) {
+arr5.forEach((val)=> {
     res2 = res2 * val
-})
+}
+
+)
 
 console.log(res2)
 

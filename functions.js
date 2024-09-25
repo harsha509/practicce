@@ -49,7 +49,7 @@ function print(res) {
 
 function doMath(a, b, callback) {
     let c = a + b;
-    callback(c);
+    print(c);
 }
 
 
