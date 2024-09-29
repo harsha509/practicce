@@ -73,4 +73,9 @@ function logic(a, b) {
     return b - a // descending
 }
 
-console.log(num.sort(logic))
+console.log(num.sort(logic));
+
+
+(function () {
+    console.log("hello unknown")
+})()
